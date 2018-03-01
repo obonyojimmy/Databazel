@@ -18,7 +18,7 @@ ecmascript              # Enable ECMAScript2015+ syntax in app code
 
 kadira:flow-router
 reactive-dict
-stylus
+stylus@=2.513.14
 universe:i18n
 http
 meteorhacks:async
@@ -29,4 +29,3 @@ accounts-password
 dburles:collection-helpers
 matb33:collection-hooks
 email
-meteorhacks:kadira

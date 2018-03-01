@@ -8,10 +8,10 @@
   "private": {
     "gMail": {
       "_comment": "Enter login, password, host and port - was used https://www.mailgun.com/",
-      "login": "login",
-      "password": "password",
-      "host": "host",
-      "port": "port"
+      "login": "sandboxdf6bedb5df0749a48ad14d75605d9e24",
+      "password": "7b1a3d36e7def7f36285b4e97e455fd3",
+      "host": "mailgun.org",
+      "port": "25"
     }
   },
   "kadira": {
